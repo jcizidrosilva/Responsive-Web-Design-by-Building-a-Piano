@@ -1,2 +1,4 @@
 # Responsive Web Design by Building a Piano
- Leraning more about responsive
+ Learning more about responsive in CSS
+
+-----> https://jcizidrosilva.github.io/Responsive-Web-Design-by-Building-a-Piano/
